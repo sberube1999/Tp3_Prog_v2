@@ -1,7 +1,7 @@
 #include "stdafx.h"
 #include "CppUnitTest.h"
-#include "..\SpaceShooter_Tp3\List.h"
-#include "..\SpaceShooter_Tp3\Stack.h"
+#include "..\SpaceShooter_Tp3_v2\List.h"
+#include "..\SpaceShooter_Tp3_v2\Stack.h"
 
 using namespace Microsoft::VisualStudio::CppUnitTestFramework;
 using namespace algoPart;
